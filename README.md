@@ -1,8 +1,5 @@
-# React + Vite
+# Exercício 01 React
+1) Renderizar Lista Dinâmica com Map: 
+Crie um componente que receba um array de nomes como propriedade e renderize cada nome em um item de lista (li) dentro de uma lista não ordenada (ul), usando o método map(). 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
